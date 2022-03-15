@@ -20,7 +20,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Alec. I like making stuff.
         I am an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> graduate, Pierre Morrissette Institute for
-        Entrepreneurship Alumni, and owner/operator of Overview Analytics - an analytics consultantcy in Toronto <a href=""></a>. Before Overview I was
+        Entrepreneurship Alumni, and owner/operator of Overview Analytics - an analytics consultantcy in Toronto <a href="psynapse.io"></a>. Before Overview I was
         at <a href="https://matroid.com">Rogers Communications</a>
         , <a href="https://planet.com">MaRS</a>
         , <a href="https://planetaryresources.com">TechAlliance</a>
