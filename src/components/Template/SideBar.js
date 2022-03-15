@@ -22,7 +22,7 @@ const SideBar = () => (
       <p>Hi, I&apos;m Alec. I like making stuff.
         I am an <a href="https://ivey.uwo.ca/">Ivey HBA</a> graduate. Formerly at Lenovo, TechAlliance, MaRS, and Rogers. Currently, owner/operator of Overview Analytics - a boutique data and analytics consultantcy focused on emerging technologies and business models.
         Before Overview Analytics I was
-        at <a href="https://matroid.com">Rogers Communications/a>
+        at <a href="https://matroid.com">Rogers Communications</a>
         , <a href="https://planet.com">MaRS Discovery District</a>
         , <a href="https://planetaryresources.com">TechAlliance</a>
 
