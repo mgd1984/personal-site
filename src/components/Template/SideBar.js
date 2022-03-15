@@ -20,12 +20,12 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Alec. I like making stuff.
-        I am an <a href="https://ivey.uwo.ca/">Ivey HBA</a> graduate. Formerly at Lenovo, TechAlliance, MaRS, and Rogers. Currently, owner/operator of Overview Analytics - a boutique data and analytics consultantcy focused on emerging technologies and business models.
-        Before Overview Analytics I was
+        I am an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> graduate, Pierre Morrissette Institute for
+        Entrepreneurship Alumni, and owner/operator of Overview Analytics - an analytics consultantcy in Toronto <a href=""></a>. Before Overview I was
         at <a href="https://matroid.com">Rogers Communications</a>
-        , <a href="https://planet.com">MaRS Discovery District</a>
+        , <a href="https://planet.com">MaRS</a>
         , <a href="https://planetaryresources.com">TechAlliance</a>
-
+        , <a href="https://facebook.com">Lenovo</a>.
       </p>
       <ul className="actions">
         <li>
@@ -36,7 +36,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Alec MIller <Link to="/"></Link>.</p>
+      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
     </section>
   </section>
 );
