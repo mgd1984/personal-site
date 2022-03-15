@@ -20,7 +20,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Alec. I like making stuff.
         I am an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> graduate, Pierre Morrissette Institute for
-        Entrepreneurship Alumni, and owner/operator of Overview Analytics - an analytics consultantcy in Toronto <a href="psynapse.io"></a>. Before Overview I was
+        Entrepreneurship Alumni, and owner/operator of Overview Analytics - an analytics consultantcy in Toronto <a href="https://psynapse.io"></a>. Before Overview I was
         at <a href="https://rogers.com">Rogers Communications</a>
         , <a href="https://marsdd.com">MaRS</a>
         , <a href="https://techalliance.ca">TechAlliance</a>
@@ -35,7 +35,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Alec Miller <Link to="/">psynapse.io</Link>.</p>
+      <p className="copyright">&copy; Alec Miller <Link to="/">https://psynapse.io</Link>.</p>
     </section>
   </section>
 );
