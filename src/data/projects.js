@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Twitterhead',
     subtitle: 'Brain Developer Kit',
-    image: '/images/projects/twitterhead.jpg',
+    image: '/images/projects/twitterhead.JPG',
     date: '2020',
     desc:
       'Building Better Brains...one Synapse at a time.',
@@ -12,7 +12,7 @@ const data = [
     title: 'Canadian Telco Heatmap',
     subtitle: 'Geo-visualization of Canadian cell towers and mobile networks',
     link: 'https://overviewanalytics.shinyapps.io/shiny-heatmap/',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/telcoheatmap.png',
     date: '2019',
     desc:
       'Developed a heatmap of the Canadian cellular network. ',
