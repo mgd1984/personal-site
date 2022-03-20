@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/twitterhead.jpg',
     date: '2020',
     desc:
-      'Building Better Brains...one Synapse at a time.'
+      'Building Better Brains...one Synapse at a time.',
   },
   {
     title: 'Canadian Telco Heatmap',
@@ -15,7 +15,7 @@ const data = [
     image: '/images/projects/harvest.jpg',
     date: '2019',
     desc:
-      'Developed a heatmap of the Canadian cellular network. '
+      'Developed a heatmap of the Canadian cellular network. ',
   },
   {
     title: 'VaxMap',
@@ -24,7 +24,7 @@ const data = [
     image: '/images/projects/vaxmap2.png',
     date: '2021',
     desc:
-      'Used R, Leaflet, and other libraries to geocode locations and build a map of pop-up vaccine clinics in Canada. '
+      'Used R, Leaflet, and other libraries to geocode locations and build a map of pop-up vaccine clinics in Canada. ',
   },
 ];
 
