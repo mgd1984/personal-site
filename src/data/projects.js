@@ -28,4 +28,9 @@ const data = [
   },
 ];
 
+<><nft-card
+  contractAddress="0x2953399124f0cbb46d2cbacd8a89cf0599974963"
+  tokenId="83666782140090088018105074953231446972395636091072086941495254980637411508225">
+</nft-card><script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script></>
+
 export default data;
