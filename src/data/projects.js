@@ -1,4 +1,8 @@
 // TODO Add a couple lines about each project
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+
 const data = [
   {
     title: 'Twitterhead',
@@ -26,7 +30,9 @@ const data = [
     desc:
       'Used R, Leaflet, and other libraries to geocode locations and build a map of pop-up vaccine clinics in Canada. ',
   },
+  
 ];
+
 
 <><nft-card
   contractAddress="0x2953399124f0cbb46d2cbacd8a89cf0599974963"
@@ -34,3 +40,4 @@ const data = [
 </nft-card><script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script></>
 
 export default data;
+
