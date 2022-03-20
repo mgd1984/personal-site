@@ -2,13 +2,20 @@
 # Currently
 # Some history
 # I like
-- Arts: Guitar (Acoustic, Electric, Bass)
-- Sports: Winter & Summer Sports (Snowboarding, Hockey, Baseball, Longboarding, Volleyball)
-- Science & Technology: IoT (NodeRED/Node.js, Wireless), Web 3 (NFT, Crypto), AI/ML (h2o, VQGAN + CLIP, OpenAI Codex/Github CoPilot)
-- Philosophy & Psychology: 
+- Guitar (Acoustic, Electric, Bass)
+- Snowboarding, Hockey, Baseball, Longboarding, Volleyball
+- Linux, Raspberry Pi, nVidia Jetson, NodeRED, Node.js, R, Python, InfluxDB, Grafana, VSCode, 
 - 
 
 # Fun facts
-- Projects I've backed or been an early adopter of: Muse (InteraXon) and Boostoed Boards (RIP)
+- IndieGoGo backer of InterXon's Muse EEG Headset  
+- Early adopter & long-time Boostoed Boards rider
+- Beta tester of OpenAI Codex & Github CoPilot
+- 
+
 # I dream of
+- Generative Art
+- 
+
 # Websites from people I admire
+- 
