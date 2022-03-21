@@ -1,8 +1,3 @@
-// TODO Add a couple lines about each project
-import React from 'react';
-import { Link } from 'react-router-dom';
-
-
 const data = [
   {
     title: 'Twitterhead',
@@ -19,7 +14,7 @@ const data = [
     image: '/images/projects/telcoheatmap.png',
     date: '2019',
     desc:
-      'Developed a heatmap of the Canadian cellular network. ',
+      'Developed a heatmap of the Canadian cellular network using data from Industry Canada&apos; Spectrum Management System.',
   },
   {
     title: 'VaxMap',
@@ -28,16 +23,17 @@ const data = [
     image: '/images/projects/vaxmap2.png',
     date: '2021',
     desc:
-      'Used R, Leaflet, and other libraries to geocode locations and build a map of pop-up vaccine clinics in Canada. ',
+      'Used R, Leaflet, and other libraries to geocode locations and build a map of pop-up vaccine clinics in Canada.',
   },
-  
+  {
+    title: 'Opensea Collections',
+    subtitle: 'Collection of my works of art',
+    link: 'https://opensea.io/gener8or',
+    image: '/images/projects/BlueberrySunsetFinal.jpg',
+    date: '2022',
+    desc:
+      'My portfolio of generative art available for sale on Opensea as NFTs.',
+  },
 ];
 
-
-<><nft-card
-  contractAddress="0x2953399124f0cbb46d2cbacd8a89cf0599974963"
-  tokenId="83666782140090088018105074953231446972395636091072086941495254980637411508225">
-</nft-card><script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script></>
-
 export default data;
-
