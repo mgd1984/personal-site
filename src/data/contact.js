@@ -3,9 +3,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
 import { faEnvelope, faBookmark } from '@fortawesome/free-regular-svg-icons';
 import { faMedium } from '@fortawesome/free-brands-svg-icons/faMedium';
-import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';
-import { faEthereum } from '@fortawesome/free-brands-svg-icons/faEthereum';
-import { faDiscord } from '@fortawesome/free-brands-svg-icons/faDiscord';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons/faInstagram';import { faDiscord } from '@fortawesome/free-brands-svg-icons/faDiscord';
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
