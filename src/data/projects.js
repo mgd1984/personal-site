@@ -1,34 +1,27 @@
 const data = [
   {
-    title: 'Canadian Telco Heatmap',
+    title: 'Overview Analytics',
     subtitle: 'Geo-visualization of Canadian cell towers and mobile networks',
     link: 'https://overviewanalytics.shinyapps.io/shiny-heatmap/',
     image: '/images/projects/telcoheatmap.png',
     desc:
-      'Developed a heatmap of the Canadian cellular network using data from Industry Canada&apos; Spectrum Management System.',
+      'Making Maps...',
   },
   {
-    title: 'Twitterhead',
+    title: 'Psynapse Technologies',
     subtitle: 'Brain Developer Kit',
+    link: 'https://psynapse.io',
     image: '/images/projects/twitterhead.JPG',
     desc:
-      'Building Better Brains...one Synapse at a time.',
+      'Building Better Brains...one synapse at a time.',
   },
   {
-    title: 'VaxMap',
-    subtitle: 'Mapping pop-up vaccine clinics in Canada via Twitter, R, & Leaflet',
-    link: 'https://overviewanalytics.shinyapps.io/VaxMap/',
-    image: '/images/projects/vaxmap2.png',
-    desc:
-      'Used R, Leaflet, and other libraries to geocode locations and build a map of pop-up vaccine clinics in Canada.',
-  },
-  {
-    title: 'Opensea Collections',
-    subtitle: 'Collection of my works of art',
+    title: 'Gener8or Gallery',
+    subtitle: 'Generative (AI) Art & Custom Art Frames',
     link: 'https://opensea.io/gener8or',
     image: '/images/projects/BlueberrySunsetFinal.jpg',
     desc:
-      'My portfolio of generative art available for sale on Opensea as NFTs.',
+      'Generative (AI) Art & Custom Fine Art Frames',
   },
 ];
 
