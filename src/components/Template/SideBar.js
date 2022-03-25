@@ -18,10 +18,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Alec. I like making stuff.
-        I&apos;m an <a href="https://ivey.uwo.ca/">Ivey HBA</a> grad, Pierre Morrissette Institute for Entrepreneurship Alumni, and
-        the owner/operator of  <a href="www.overviewanalytics.ca">Overview Analytics</a>. Before starting Overview Analytics, I was
-        at <a href="https://rogers.com">Rogers</a>
+      <p>Hi, I&apos;m Alec. I like to make things with data &amp; electronics.
+        I&apos;m an <a href="https://ivey.uwo.ca/">Ivey HBA</a> and <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS </a> grad
+        with specializations in Entrepreneurship &amp; Data Science.
+        I&apos;m the owner/operator of <a href="https://www.overviewanalytics.ca">Overview Analytics</a>, prior to which I worked in technology,
+        telecom, and startup incubation including roles @ <a href="https://rogers.com">Rogers</a>
         , <a href="https://marsdd.com">MaRS</a>
         , <a href="https://techalliance.ca">TechAlliance</a>
         , and <a href="https://lenovo.com">Lenovo</a>.

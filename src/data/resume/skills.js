@@ -1,5 +1,5 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
+// TODO:
+// Data Engineering, Data Science, ML Engineering, Athletics, Analytics, ... ?
 
 const skills = [
   {
@@ -122,21 +122,51 @@ const skills = [
     competency: 4,
     category: ['Languages'],
   },
+  {
+    title: 'Tableau',
+    competency: 2,
+    category: ['Data Visualization'],
+  },
+  {
+    title: 'Grafana',
+    competency: 2,
+    category: ['Data Visualization'],
+  },
+  {
+    title: 'Google Data Studio',
+    competency: 2,
+    category: ['Data Visualization'],
+  },
+  {
+    title: 'NST/VQGAN/CLIP/GLIDE/DALL-E/ISR (Generative Art)',
+    competency: 3,
+    category: ['AI Models'],
+  },
+  {
+    title: 'davinci/currie/babbage/ada (Code Synthesis)',
+    competency: 2,
+    category: ['AI Models'],
+  },
+  {
+    title: 'demucs/pedalboard (Audio Source Separation & Synthesis)',
+    competency: 2,
+    category: ['AI Models'],
+  },
+
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
+  '#73D055FF',
+  '#3CBB75FF',
+  '#20A387FF',
+  '#238A8DFF',
+  '#2D708EFF',
+  '#39568CFF',
+  '#453781FF',
+  '#481567FF',
+  '#440154FF',
   '#64cb7b',
 ];
 
