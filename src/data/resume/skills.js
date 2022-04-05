@@ -7,11 +7,7 @@ const skills = [
     competency: 1,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
-  {
-    title: 'Deepstream SDK',
-    competency: 1,
-    category: ['SDKs', 'Languages'],
-  },
+
   {
     title: 'Node.JS',
     competency: 2,
@@ -161,11 +157,6 @@ const skills = [
     title: 'Blues Wireless',
     competency: 2,
     category: ['IoT'],
-  },
-  {
-    title: 'P5.js',
-    competency: 1,
-    category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
     title: 'AR.js',
