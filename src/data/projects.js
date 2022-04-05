@@ -21,7 +21,7 @@ const data = [
     link: 'https://opensea.io/gener8or',
     image: '/images/projects/BlueberrySunsetFinal.jpg',
     desc:
-      'Generative (AI) Art & Custom Fine Art Frames',
+      'Generative (AI) Art & Custom Frames',
   },
 ];
 

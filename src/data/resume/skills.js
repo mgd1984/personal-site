@@ -8,6 +8,11 @@ const skills = [
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
+    title: 'Deepstream SDK',
+    competency: 1,
+    category: ['SDKs', 'Languages'],
+  },
+  {
     title: 'Node.JS',
     competency: 2,
     category: ['Web Development', 'Javascript'],
@@ -75,22 +80,22 @@ const skills = [
   {
     title: 'Raspberry Pi',
     competency: 3,
-    category: ['Microelectronics'],
+    category: ['IoT'],
   },
   {
     title: 'nVidia Jetson Nano',
     competency: 2,
-    category: ['Microelectronics'],
+    category: ['IoT'],
   },
   {
     title: 'Arduino',
     competency: 2,
-    category: ['Microelectronics'],
+    category: ['IoT'],
   },
   {
     title: 'Soldering',
     competency: 3,
-    category: ['Microelectronics'],
+    category: ['IoT'],
   },
   {
     title: 'Digital Fabrication',
@@ -143,14 +148,29 @@ const skills = [
     category: ['AI Models'],
   },
   {
-    title: 'davinci/currie/babbage/ada (Code Synthesis)',
+    title: 'GPT-3 Codex/Co-pilot',
     competency: 2,
     category: ['AI Models'],
   },
   {
-    title: 'demucs/pedalboard (Audio Source Separation & Synthesis)',
+    title: 'demucs/pedalboard',
     competency: 2,
     category: ['AI Models'],
+  },
+  {
+    title: 'Blues Wireless',
+    competency: 2,
+    category: ['IoT'],
+  },
+  {
+    title: 'P5.js',
+    competency: 1,
+    category: ['Web Development', 'Languages', 'Javascript'],
+  },
+  {
+    title: 'AR.js',
+    competency: 1,
+    category: ['Web Development', 'Languages', 'Javascript'],
   },
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));

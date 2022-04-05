@@ -6,7 +6,6 @@ I'm the owner/operator of [Overview Analytics](https://overviewanalytics.ca) - a
 - Snowboarding, Hockey, Baseball, Longboarding, Volleyball
 - Hands-on Coding, Electronics Prototyping, Debugging, and Technology Development 
 - Podcasts, Seminars, and Continuing Education
-- Sauna, Cold Plunges, and Frozen Lakes
 
 # Fun Facts
 - IndieGoGo backer for the [Muse](https://choosemuse.com) EEG Headset 
@@ -22,10 +21,9 @@ I'm the owner/operator of [Overview Analytics](https://overviewanalytics.ca) - a
 - The Ivey School of Business
 - The Humans (and Dogs) of Toronto
 - M. King Hubbert, Nate Hagens, Thomas Homer-Dixon, Matt Simmons
-- Hendrix, Ruggerio, Graffin, Djawadi, Grohl, Slash, Classical Composers
+- Jimi Hendrix, Vic Ruggerio, Greg Graffin, Ramin Djawadi, Dave Grohl, Slash, Classical Composers
+- Ex's & Oh's 
 - Ralph Steadman, John Alexander, Mario Klingemann, Jasper Johns 
-- Philosophers & Poets (too many & pretentious to list)
-- Every Girl I've Ever Loved & Every Boss That's Ever Fired Me 
-- Terence McKenna, Robert Anton Wilson, Timothy Leary, Michael Pollan 
+- Philosophers & Poets (too many & pretentious to list)- Terence McKenna, Robert Anton Wilson, Timothy Leary, Michael Pollan 
 - My Grade 7 Teacher & High School Discus Coach (who I swear was a Wind Shaman)
 - My Family & The Original Six (You Know Who You Are)
