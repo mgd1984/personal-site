@@ -12,7 +12,7 @@
       "specialLink": ["to", "hrefLeft", "hrefRight"],
       "aspects": ["noHref", "invalidHref", "preferButton"],
       "object-curly-spacing": ["error", "always"],
-      "quotes": ["error"],
+      "quotes": ["error"]
     }],
     "jsx-a11y/click-events-have-key-events": 0,
     "jsx-a11y/href-no-hash": "off",
