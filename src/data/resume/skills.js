@@ -5,18 +5,18 @@ const skills = [
   {
     title: 'Javascript',
     competency: 1,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Dev', 'Languages', 'Javascript'],
   },
 
   {
     title: 'Node.JS',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Dev', 'Javascript'],
   },
   {
     title: 'React',
     competency: 1,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Dev', 'Javascript'],
   },
   {
     title: 'Bash',
@@ -26,12 +26,12 @@ const skills = [
   {
     title: 'Google Cloud',
     competency: 2,
-    category: ['Web Development', 'Tools'],
+    category: ['Web Dev', 'Tools'],
   },
   {
     title: 'MongoDB',
     competency: 1,
-    category: ['Web Development', 'Databases'],
+    category: ['Web Dev', 'Databases'],
   },
   {
     title: 'Docker/Containers',
@@ -66,7 +66,7 @@ const skills = [
   {
     title: 'Python',
     competency: 2,
-    category: ['Languages', 'Python'],
+    category: ['Languages', 'Python'], 
   },
   {
     title: 'Circuit Python',
@@ -106,7 +106,7 @@ const skills = [
   {
     title: 'R',
     competency: 3,
-    category: ['Languages'],
+    category: ['Languages'], 
   },
   {
     title: 'InfluxDB',
@@ -116,7 +116,7 @@ const skills = [
   {
     title: 'Power BI',
     competency: 3.5,
-    category: ['Data Science', 'Data Visualization'],
+    category: ['Data Science', 'Data Viz'],
   },
   {
     title: 'Excel, PowerQuery & Pivot Tables',
@@ -126,17 +126,17 @@ const skills = [
   {
     title: 'Tableau',
     competency: 2,
-    category: ['Data Visualization'],
+    category: ['Data Viz'],
   },
   {
     title: 'Grafana',
     competency: 2,
-    category: ['Data Visualization'],
+    category: ['Data Viz'],
   },
   {
     title: 'Google Data Studio',
     competency: 2,
-    category: ['Data Visualization'],
+    category: ['Data Viz'],
   },
   {
     title: 'NST/VQGAN/CLIP/GLIDE/DALL-E/ISR (Generative Art)',
@@ -161,7 +161,42 @@ const skills = [
   {
     title: 'AR.js',
     competency: 1,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Dev', 'Languages', 'Javascript'],
+  },
+  {
+    title: 'nVidia Jetpack SDK',
+    competency: 1,
+    category: ['AI Models', 'IoT', 'Tools'],
+  },
+  {
+    title: 'nVidia DeepStream SDK',
+    competency: 1,
+    category: ['Computer Vision', 'Tools'],
+  },
+  {
+    title: 'nVidia Tao Toolkit',
+    competency: 1,
+    category: ['AI Models', 'Tools'],
+  },
+  {
+    title: 'Azure Data Studio',
+    competency: 1,
+    category: ['Data Science', 'Tools', 'Databases'],
+  },
+  {
+    title: 'OpenCV',
+    competency: 1,
+    category: ['Data Science', 'Computer Vision'],
+  },
+  {
+    title: 'Kepler.gl',
+    competency: 1,
+    category: ['Data Viz', 'Tools', 'Data Science'],
+  },
+  {
+    title: 'Microsoft SandDance',
+    competency: 1,
+    category: ['Data Viz', 'Tools', 'Databases'],
   },
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
