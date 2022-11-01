@@ -66,7 +66,7 @@ const skills = [
   {
     title: 'Python',
     competency: 2,
-    category: ['Languages', 'Python'], 
+    category: ['Languages', 'Python'],
   },
   {
     title: 'Circuit Python',
@@ -106,7 +106,7 @@ const skills = [
   {
     title: 'R',
     competency: 3,
-    category: ['Languages'], 
+    category: ['Languages'],
   },
   {
     title: 'InfluxDB',
