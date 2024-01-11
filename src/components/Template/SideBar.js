@@ -20,7 +20,7 @@ const SideBar = () => (
         <p>
           Hi, I&apos;m Alec. I like to make stuff &amp; including businesses, software, and music, and generative art.
         </p>
-        <p>
+      <p>
           I&apos;m an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> and <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS </a> graduate
           with specializations in Entrepreneurship &amp; Data Science.
         </p>
