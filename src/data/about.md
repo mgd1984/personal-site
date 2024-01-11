@@ -26,4 +26,4 @@ I'm the owner/operator of [Overview Analytics](https://overviewanalytics.ca) - a
 - Ralph Steadman, John Alexander, Mario Klingemann, Jasper Johns 
 - Philosophers & Poets (too many & pretentious to list)- Terence McKenna, Robert Anton Wilson, Timothy Leary, Michael Pollan 
 - My Grade 7 Teacher & High School Discus Coach (who I swear was a Wind Shaman)
-- My Family & The Original Six (You Know Who You Are)
+- Family & Friends
