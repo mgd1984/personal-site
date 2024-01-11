@@ -16,9 +16,9 @@ const data = [
       'Building Better Brains...one synapse at a time.',
   },
   {
-    title: 'Gener8or Gallery',
-    subtitle: 'Generative (AI) Art & Custom Art Frames',
-    link: 'https://opensea.io/gener8or',
+    title: 'Gener8ions',
+    subtitle: 'Exploring Creatinve Applications of AI',
+    link: 'https://gener8ions.com',
     image: '/images/projects/BlueberrySunsetFinal.jpg',
     desc:
       'Generative (AI) Art & Custom Frames',
