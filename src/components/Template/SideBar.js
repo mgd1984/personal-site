@@ -25,7 +25,8 @@ const SideBar = () => (
         with specializations in Entrepreneurship.
       </p>
       <p>
-        I&apos;m also a graduate of <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS </a> with a specialization in Data Science.
+        I&apos;m also a graduate of <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">
+          University of Toronto SCS </a> with a specialization in Data Science.
       </p>
       <p>
         I&apos;m the owner/operator of <a href="https://millhaus.ca">Millhaus Technology Services</a>, prior to which I worked in computer sales, data partnerships,
