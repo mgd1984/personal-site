@@ -21,8 +21,11 @@ const SideBar = () => (
         Hi, I&apos;m Alec. I like to make stuff &amp; including businesses, software, and music, and generative art.
       </p>
       <p>
-        I&apos;m an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> and <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS </a> graduate
-        with specializations in Entrepreneurship &amp; Data Science.
+        I&apos;m an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> graduate
+        with specializations in Entrepreneurship.
+      </p>
+      <p>
+        I&apos;m also a graduate of <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">University of Toronto SCS </a> with a specialization in Data Science.
       </p>
       <p>
         I&apos;m the owner/operator of <a href="https://millhaus.ca">Millhaus Technology Services</a>, prior to which I worked in computer sales, data partnerships,
