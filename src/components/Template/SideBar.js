@@ -28,6 +28,9 @@ const SideBar = () => (
         <a href="https://techalliance.ca">TechAlliance</a>,
         and <a href="https://lenovo.com">Lenovo</a>.
       </p>
+      <p>
+        &copy; Alec Miller <Link to="/">mgd1984.github.io/personal-site</Link>.
+      </p>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
