@@ -18,7 +18,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>
+      <p></p>
         <p>
           Hi, I&apos;m Alec. I like to make stuff &amp; including businesses, software, and music, and generative art.
         </p>
