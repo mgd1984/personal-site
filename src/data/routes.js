@@ -20,10 +20,10 @@ const routes = [
     label: 'Stats',
     path: '/stats',
   },
-  {
-    label: 'Demos',
-    path: '/demos',
-  },
+  // {
+  //   label: 'Demos',
+  //   path: '/demos',
+  // },
 ];
 
 export default routes;
