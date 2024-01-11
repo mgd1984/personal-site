@@ -1,9 +1,9 @@
 const data = [
   {
-    title: 'Overview Analytics',
-    subtitle: 'Geo-visualization of Canadian cell towers and mobile networks',
-    link: 'https://overviewanalytics.shinyapps.io/shiny-heatmap/',
-    image: '/images/projects/telcoheatmap.png',
+    title: 'Millhaus Technology Services',
+    subtitle: 'CAD/CAM & 3D Printing Services',
+    link: 'https://millhaus.ca',
+    image: '/images/projects/mts.png',
     desc:
       'Making Maps...',
   },
