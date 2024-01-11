@@ -18,10 +18,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Alec. I like to make stuff &amp; including businesses, software, and music, and generative art.
+        Hi, I'm Alec. I like to make stuff - including businesses, software, and music, and generative art.
       </p>
       <p>
-        I&apos;m an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> graduate
+        I'm an <a href="https://ivey.uwo.ca/">Ivey School of Business</a> graduate
         with specializations in Entrepreneurship.
       </p>
       <p>
