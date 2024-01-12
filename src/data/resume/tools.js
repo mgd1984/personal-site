@@ -1,7 +1,7 @@
 // TODO:
 // Data Engineering, Data Science, ML Engineering, Athletics, Analytics, ... ?
 
-const skills = [
+const tools = [
   {
     title: 'Javascript',
     competency: 1,
@@ -264,7 +264,7 @@ const skills = [
     category: ['Data Viz', 'Databases'],
   },
 
-].map((skill) => ({ ...skill, category: skill.category.sort() }));
+].map((tool) => ({ ...tool, category: tool.category.sort() }));
 
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
@@ -285,7 +285,7 @@ const colors = [
 ];
 
 const categories = [
-  ...new Set(skills.reduce((acc, { category }) => acc.concat(category), [])),
+  ...new Set(tools.reduce((acc, { category }) => acc.concat(category), [])),
 ]
   .sort()
   .map((category, index) => ({
@@ -293,4 +293,4 @@ const categories = [
     color: colors[index],
   }));
 
-export { categories, skills };
+export { categories, tools };
