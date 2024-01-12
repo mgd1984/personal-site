@@ -2,10 +2,10 @@ const data = [
   {
     title: 'Millhaus Technology Services',
     subtitle: 'CAD/CAM & 3D Printing Services',
-    link: 'https://millhaus.ca',
+    link: 'https://www.millhaus.ca',
     image: '/images/projects/mts.png',
     desc:
-      'Making Maps...',
+      'CAD/CAM & 3D Printing Services',
   },
   {
     title: 'Psynapse Technologies',
@@ -13,15 +13,15 @@ const data = [
     link: 'https://psynapse.io',
     image: '/images/projects/twitterhead.JPG',
     desc:
-      'Building Better Brains...one synapse at a time.',
+      'Build a Brain...one psynapse at a time.',
   },
   {
     title: 'Gener8ions',
     subtitle: 'Exploring Creatinve Applications of AI',
-    link: 'https://gener8ions.com',
-    image: '/images/projects/BlueberrySunsetFinal.jpg',
+    link: 'https://gener8ions.netlify.app',
+    image: '/images/projects/gener8ions.png',
     desc:
-      'Generative (AI) Art & Custom Frames',
+      'Creative Explorations with Generative AI',
   },
 ];
 
