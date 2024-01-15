@@ -19,15 +19,13 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi 👋, I&apos;m Alec. I like making stuff - software, hardware, and businesses. I&apos;m a graduate of <a href="https://www.ivey.uwo.ca/hba/">Ivey Business School</a> and
-        I&apos;m also a graduate of <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">
-          University of Toronto SCS </a> with a specialization in Data Science.
+        I&apos; the <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science">
+          University of Toronto SCS </a> with a specialization in Data Science. Currently pursuing a Certified Analytics Professional (CAP) designation.
       </p>
       <p>
         I&apos;m the owner/operator of <a href="https://millhaus.ca">Millhaus Technology Services</a>, prior to which I worked in computer sales, data partnerships,
         telecom pricing analytics, and startup incubation including roles @ <a href="https://rogers.com">Rogers</a>,
-        <a href="https://marsdd.com">MaRS</a>,
-        <a href="https://techalliance.ca">TechAlliance</a>,
-        and <a href="https://lenovo.com">Lenovo</a>.
+        <a href="https://marsdd.com">MaRS</a>, <a href="https://techalliance.ca">TechAlliance</a>, and <a href="https://lenovo.com">Lenovo</a>.
       </p>
       <ul className="actions">
         <li>
