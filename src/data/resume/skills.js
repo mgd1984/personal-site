@@ -179,24 +179,9 @@ const skills = [
     category: ['IoT/Robotics', '3D Printing'],
   },
   {
-    title: 'Cura',
-    competency: 2,
-    category: ['IoT/Robotics', '3D Printing'],
-  },
-  {
-    title: 'Figma',
-    competency: 2,
-    category: ['Web Dev', 'Creative'],
-  },
-  {
     title: 'Adobe Creative Cloud',
     competency: 2,
     category: ['Creative'],
-  },
-  {
-    title: 'Unity',
-    competency: 2,
-    category: ['Web Dev', 'Creative'],
   },
   {
     title: 'Blender',
@@ -204,17 +189,7 @@ const skills = [
     category: ['Creative', '3D Printing'],
   },
   {
-    title: 'Adobe XD',
-    competency: 2,
-    category: ['Creative'],
-  },
-  {
     title: 'Adobe Photoshop',
-    competency: 2,
-    category: ['Creative'],
-  },
-  {
-    title: 'Adobe Illustrator',
     competency: 2,
     category: ['Creative'],
   },

@@ -26,7 +26,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:alec@overviewanalytics.ca',
+    link: 'mailto:alec@millhaus.ca',
     label: 'Email',
     icon: faEnvelope,
   },

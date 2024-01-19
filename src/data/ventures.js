@@ -7,14 +7,14 @@ const data = [
     desc:
       'CAD/CAM & 3D Printing Services',
   },
-  {
-    title: 'Psynapse Technologies',
-    subtitle: 'Brain Developer Kit',
-    link: 'https://psynapse.io',
-    image: '/images/projects/twitterhead.JPG',
-    desc:
-      'Build a Brain...one psynapse at a time.',
-  },
+  // {
+  //   title: 'Psynapse Technologies',
+  //   subtitle: 'Brain Developer Kit',
+  //   link: 'https://psynapse.io',
+  //   image: '/images/projects/twitterhead.JPG',
+  //   desc:
+  //     'Build a Brain...one psynapse at a time.',
+  // },
   {
     title: 'Gener8ions',
     subtitle: 'Exploring Creatinve Applications of AI',

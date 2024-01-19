@@ -16,7 +16,7 @@
 
 import axios from 'axios';
 
-export async function handler(event, context) {
+export async function handler(event) {
     // Ensure that this function is only run as a POST request
     if (event.httpMethod !== 'POST') {
         return { statusCode: 405, body: 'Method Not Allowed' };

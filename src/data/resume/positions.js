@@ -1,14 +1,13 @@
 const positions = [
   {
-    company: 'Overview Analytics',
-    position: 'Owner/Operator',
-    link: 'https://overviewanalytics.ca',
-    daterange: '2015 - Present',
+    company: 'Millhaus Technology Services',
+    position: 'Owner/Operator, Technology Service Provider & Analytics Consulting',
+    link: 'https://www.millhaus.ca',
+    daterange: '2020 - Present',
     points: [
-      'Led consulting engagements with small businesses on strategy, analytics and business planning. Added value through applied analytics and entrepreneurial guidance gained from years of experience working with startups.',
-      'Using R, Shiny, and Leaflet map libraries, built a working location analytics application that allow telecom analysts to see patterns in the distribution of cell phone towers in Canada. Deployed on Google Cloud using Google Compute Engine and Docker.',
-      'Developed sentiment analysis pipeline using the Twitter API for data ingestion, Node-RED IoT programming tool for data processing, InfluxDB for data storage, and Grafana for data visualization, running Linux on a Raspberry Pi to track trending topics and patterns over time.',
-      'Completed Data Science Fundamentals Certificate at the University of Toronto School of Continuing Studies including courses in statistics, data science fundamentals, big data systems & tools, and machine learning.',
+      'CAD/CAM technology service provider to the dental lab industry - including installation, maintenance, and repair of advanced manufacturing equipment including automated milling machines and 3D printers used for dental restorations.',
+      'Leveraging the latest Generative AI tools to augment operations, such as OpenAI’s custom GPTs to create intelligent agents for business process automations, including MillBot – a customer-facing technical support bot trained on error code data for specific machines; BillBot – an agent for parsing service orders and syncing data with project management software; and API endpoints for analyzing machine log data to identify patterns and create visualizations.',
+      'Consulting with small businesses on digital adoption, analytics strategy, generative AI, data pipelines, and business model design. Add value through applied analytics and strategic action gained through years of experience advising startups, working at tech companies, and collaborating with R&D organizations.',
     ],
   },
   {
@@ -43,6 +42,18 @@ const positions = [
       'Gathered historical customer data and built Excel models of customer behaviour to inform business cases around pricing, promotional, and competitive activities.',
       'Used a variety of advanced analytical techniques such as EDA, sampling, dimensionality reduction, and data models to distill key insights from massive amounts of data.',
       'Conducted post-implementation reviews for wireless acquisition and base management campaigns to measure impact and performance relative to original estimates.',
+    ],
+  },
+  {
+    company: 'Overview Analytics',
+    position: 'Owner/Operator',
+    link: '',
+    daterange: '2015 - 2018',
+    points: [
+      'Led consulting engagements with small businesses on strategy, analytics and business planning. Added value through applied analytics and entrepreneurial guidance gained from years of experience working with startups.',
+      'Using R, Shiny, and Leaflet map libraries, built a working location analytics application that allow telecom analysts to see patterns in the distribution of cell phone towers in Canada. Deployed on Google Cloud using Google Compute Engine and Docker.',
+      'Developed sentiment analysis pipeline using the Twitter API for data ingestion, Node-RED IoT programming tool for data processing, InfluxDB for data storage, and Grafana for data visualization, running Linux on a Raspberry Pi to track trending topics and patterns over time.',
+      'Completed Data Science Fundamentals Certificate at the University of Toronto School of Continuing Studies including courses in statistics, data science fundamentals, big data systems & tools, and machine learning.',
     ],
   },
   {
