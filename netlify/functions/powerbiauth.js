@@ -14,9 +14,9 @@
 
 // If any error occurs during this process, the function catches the error, logs it to the console, and returns a 500 status code with a 'Internal Server Error' message.
 
-const axios = require('axios');
+import axios from 'axios';
 
-exports.handler = async function (event, context) {
+export async function handler(event, context) {
     // Ensure that this function is only run as a POST request
     if (event.httpMethod !== 'POST') {
         return { statusCode: 405, body: 'Method Not Allowed' };

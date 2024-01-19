@@ -21,7 +21,7 @@ const routes = [
     path: '/stats',
   },
   {
-    label: 'PowerBI',
+    label: 'Dashboards',
     path: '/powerbi',
   },
   // {
