@@ -2,9 +2,9 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
-import PowerBIAuth from '../components/PowerBI/PowerBI'; // Add the missing import statement
+import PowerBI from '../components/PowerBI/PowerBI'; // Fix the casing of the file name
 
-const PowerBI = () => (
+const PowerBIPage = () => (
   <Main
     title="PowerBI"
     description="Embedded Analytics powered by PowerBI."
@@ -17,7 +17,7 @@ const PowerBI = () => (
         </div>
       </header>
       <div id="powerbi-report">
-        <PowerBIAuth
+        <PowerBI
           apiEndpoint="YOUR_API_ENDPOINT"
           authorizationHeader="YOUR_AUTHORIZATION_HEADER"
           render={(embedToken, reportId) => {
@@ -36,4 +36,4 @@ const PowerBI = () => (
   </Main>
 );
 
-export default PowerBI;
+export default PowerBIPage;
