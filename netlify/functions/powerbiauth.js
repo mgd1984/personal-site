@@ -15,16 +15,28 @@
 // If any error occurs during this process, the function catches the error, logs it to the console, and returns a 500 status code with a 'Internal Server Error' message.
 
 const axios = require('axios');
-export default async function handler(req, context) {
-    const { accessToken } = JSON.parse(req.body);
 
+exports.handler = async function (event, context) {
     // Ensure that this function is only run as a POST request
-    if (req.method !== 'POST') {
+    if (event.httpMethod !== 'POST') {
         return { statusCode: 405, body: 'Method Not Allowed' };
     }
 
+    let body;
     try {
-        const body = JSON.parse(req.body);
+        body = JSON.parse(event.body);
+    } catch (error) {
+        console.error('Error parsing request body:', error);
+        return { statusCode: 400, body: 'Invalid request body' };
+    }
+
+    const { accessToken } = body;
+    if (!accessToken) {
+        console.error('Access token not found in request body');
+        return { statusCode: 400, body: 'Access token not found' };
+    }
+
+    try {
         const tenantId = process.env.AZURE_TENANT_ID;
         const clientId = process.env.AZURE_CLIENT_ID;
         const clientSecret = process.env.AZURE_CLIENT_SECRET;
@@ -71,4 +83,4 @@ export default async function handler(req, context) {
             body: 'Internal Server Error',
         };
     }
-}
+};
