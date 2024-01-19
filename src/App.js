@@ -2,6 +2,7 @@ import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
+import './components/PowerBI/Login';
 
 const { PUBLIC_URL } = process.env;
 
@@ -15,6 +16,8 @@ const NotFound = lazy(() => import('./pages/NotFound'));
 const Ventures = lazy(() => import('./pages/Ventures'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
+const PowerBI = lazy(() => import('./pages/PowerBI'));
+
 // const Demos = lazy(() => import('./pages/Demos'));
 
 const App = () => (
@@ -27,8 +30,9 @@ const App = () => (
         <Route path="/stats" component={Stats} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-        {/* <Route path="/demos" component={Demos} /> */}
+        <Route path="/powerbi" component={PowerBI} />
         <Route component={NotFound} status={404} />
+        {/* <Route path="/demos" component={Demos} /> */}
       </Switch>
     </Suspense>
   </BrowserRouter>
