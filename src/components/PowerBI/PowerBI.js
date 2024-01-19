@@ -3,10 +3,18 @@ import * as pbi from 'powerbi-client';
 
 const PowerBI = () => {
   useEffect(() => {
-    // No curly braces here, the function is a single statement (the fetchAccessToken call)
     (async () => {
       try {
-        const response = await fetch('https://www.lakehousedata.ca/.netlify/functions/powerbiauth');
+        const response = await fetch('https://www.lakehousedata.ca/.netlify/functions/powerbiauth', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          // Include any necessary data in the body of the request
+          body: JSON.stringify({
+            // Your data here
+          }),
+        });
         if (!response.ok) {
           throw new Error(`Server responded with status ${response.status}`);
         }

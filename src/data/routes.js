@@ -20,6 +20,10 @@ const routes = [
     label: 'Stats',
     path: '/stats',
   },
+  {
+    label: 'PowerBI',
+    path: '/powerbi',
+  },
   // {
   //   label: 'Demos',
   //   path: '/demos',
