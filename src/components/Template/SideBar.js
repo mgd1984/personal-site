@@ -28,7 +28,7 @@ const SideBar = () => (
         <a href="https://marsdd.com"> MaRS</a>,
         <a href="https://techalliance.ca"> TechAlliance</a>,
         and <a href="https://lenovo.com"> Lenovo</a>.
-        I&apos;m currently pursing a Certified Analytics Professional designation.
+        I&apos;m currently pursuing a Certified Analytics Professional designation.
       </p>
       <ul className="actions">
         <li>
@@ -44,7 +44,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p>
-        &copy; Alec Miller <Link to="/">mgd1984.github.io/personal-site</Link>.
+        &copy; Alec Miller <Link to="/">mgd1984.ca</Link>.
       </p>
     </section>
   </section>

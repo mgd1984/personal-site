@@ -1,5 +1,5 @@
 # Currently
-I'm the owner/operator of [Overview Analytics](https://overviewanalytics.ca) - a Toronto-based data & analytics consulting business with a focus on building data pipelines, models, maps, and dashboards. 
+I'm the owner/operator of [Millhaus Technology Services](https://www.millhaus.ca) - a Toronto-based CAD/CAM technology service provider to the dental lab industry.
 
 # I like
 - Playing Guitar (Acoustic, Electric, Bass) & Live Music
@@ -20,10 +20,6 @@ I'm the owner/operator of [Overview Analytics](https://overviewanalytics.ca) - a
 - John Boyd, Sun Tzu, and the Mennonites
 - The Ivey School of Business
 - The Humans (and Dogs) of Toronto
-- M. King Hubbert, Nate Hagens, Thomas Homer-Dixon, Matt Simmons
-- Jimi Hendrix, Vic Ruggerio, Greg Graffin, Ramin Djawadi, Dave Grohl, Slash, Classical Composers
-- Ex's & Oh's 
-- Ralph Steadman, John Alexander, Mario Klingemann, Jasper Johns 
-- Philosophers & Poets (too many & pretentious to list)- Terence McKenna, Robert Anton Wilson, Timothy Leary, Michael Pollan 
+- Philosophers & Poets (too many & pretentious to list) 
 - My Grade 7 Teacher & High School Discus Coach (who I swear was a Wind Shaman)
 - Family & Friends
