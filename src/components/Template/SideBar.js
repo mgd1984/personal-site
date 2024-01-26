@@ -19,7 +19,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi 👋, I&apos;m Alec. I like making stuff - software, hardware, and businesses. I&apos;m a graduate of the <a href="https://www.ivey.uwo.ca/hba/">Ivey Business School </a>
+        Hi 👋, I&apos;m Alec. I like making and tuning things - machines, models, prototypes, tools, and the teams & businesses that create them. I&apos;m a graduate of the <a href="https://www.ivey.uwo.ca/hba/">Ivey Business School </a>
         and the <a href="https://learn.utoronto.ca/programs-courses/certificates/data-science"> University of Toronto SCS </a> with a specialization in Data Science.
       </p>
       <p>
