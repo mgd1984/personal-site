@@ -18,6 +18,7 @@ const Ventures = () => (
           <p>Personal projects and professional ventures.</p>
         </div>
       </header>
+
       {data.map((project) => (
         <Cell
           data={project}

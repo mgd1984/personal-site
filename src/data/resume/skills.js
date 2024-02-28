@@ -29,8 +29,8 @@ const skills = [
     category: ['Web Dev'],
   },
   {
-    title: 'MongoDB',
-    competency: 1,
+    title: 'Postgres',
+    competency: 2,
     category: ['Web Dev', 'Databases'],
   },
   {

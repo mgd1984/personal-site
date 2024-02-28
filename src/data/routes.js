@@ -9,25 +9,25 @@ const routes = [
     path: '/about',
   },
   {
-    label: 'Ventures',
-    path: '/ventures',
-  },
-  {
     label: 'Resume',
     path: '/resume',
   },
   {
-    label: 'Stats',
-    path: '/stats',
-  },
-  {
-    label: 'Dashboards',
-    path: '/powerbi',
+    label: 'Ventures',
+    path: '/ventures',
   },
   // {
-  //   label: 'Demos',
-  //   path: '/demos',
+  //   label: 'Stats',
+  //   path: '/stats',
   // },
+  // {
+  //   label: 'Dashboards',
+  //   path: '/powerbi',
+  // },
+  {
+    label: 'Demos',
+    path: '/demos',
+  },
 ];
 
 export default routes;

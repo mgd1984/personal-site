@@ -3,7 +3,7 @@ const degrees = [
     school: 'University of Toronto School of Continuing Studies',
     degree: 'Certificate in Data Science',
     link: 'https://learn.utoronto.ca/programs-courses/certificates/data-science',
-    year: 2019,
+    year: 2017,
   },
   {
     school: 'Ivey School of Business @ Western University',

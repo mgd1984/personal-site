@@ -10,7 +10,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me3.png`} alt="" />
       </Link>
       <header>
         <h2>Alec Miller</h2>
@@ -28,7 +28,8 @@ const SideBar = () => (
         <a href="https://marsdd.com"> MaRS</a>,
         <a href="https://techalliance.ca"> TechAlliance</a>,
         and <a href="https://lenovo.com"> Lenovo</a>.
-        I&apos;m currently pursuing a Certified Analytics Professional designation.
+        I&apos;m currently pursuing the <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/">Microsoft DP-600 Fabric Analytics Engineer Associate </a>
+        and <a href="https://www.certifiedanalytics.org/">Certified Analytics Professional</a> designation.
       </p>
       <ul className="actions">
         <li>

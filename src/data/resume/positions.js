@@ -3,7 +3,7 @@ const positions = [
     company: 'Millhaus Technology Services',
     position: 'Owner/Operator, Technology Service Provider & Analytics Consulting',
     link: 'https://www.millhaus.ca',
-    daterange: '2020 - Present',
+    daterange: '2021 - Present',
     points: [
       'CAD/CAM technology service provider to the dental lab industry - including installation, maintenance, and repair of advanced manufacturing equipment including automated milling machines and 3D printers used for dental restorations.',
       'Leveraging the latest Generative AI tools to augment operations, such as OpenAI’s custom GPTs to create intelligent agents for business process automations, including MillBot – a customer-facing technical support bot trained on error code data for specific machines; BillBot – an agent for parsing service orders and syncing data with project management software; and API endpoints for analyzing machine log data to identify patterns and create visualizations.',
@@ -14,7 +14,7 @@ const positions = [
     company: 'Rogers Communications',
     position: 'Manager, Small Business Wireless Base Marketing',
     link: 'https://www.rogers.com',
-    daterange: '2019 - 2020',
+    daterange: '2020',
     points: [
       'Developed and delivered data-driven marketing campaigns to Small Business Wireless customers, maximizing subscriber revenue and customer retention through an analytical approach to consumer marketing.',
       'Managed the execution of ongoing subscriber revenue initiatives including base pricing and device financing policy changes to drive key insights and strategic outcomes.',
@@ -45,15 +45,11 @@ const positions = [
     ],
   },
   {
-    company: 'Overview Analytics',
-    position: 'Owner/Operator',
-    link: '',
-    daterange: '2015 - 2018',
+    company: 'U of T School of Continuing Studies',
+    position: 'Data Science Fundamentals Certificate',
+    link: 'https://www.rogers.com',
+    daterange: '2016-2017',
     points: [
-      'Led consulting engagements with small businesses on strategy, analytics and business planning. Added value through applied analytics and entrepreneurial guidance gained from years of experience working with startups.',
-      'Using R, Shiny, and Leaflet map libraries, built a working location analytics application that allow telecom analysts to see patterns in the distribution of cell phone towers in Canada. Deployed on Google Cloud using Google Compute Engine and Docker.',
-      'Developed sentiment analysis pipeline using the Twitter API for data ingestion, Node-RED IoT programming tool for data processing, InfluxDB for data storage, and Grafana for data visualization, running Linux on a Raspberry Pi to track trending topics and patterns over time.',
-      'Completed Data Science Fundamentals Certificate at the University of Toronto School of Continuing Studies including courses in statistics, data science fundamentals, big data systems & tools, and machine learning.',
     ],
   },
   {
