@@ -2,7 +2,6 @@ import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
-import './components/PowerBI/Login';
 import './components/Demos/ContactIcons';
 import './components/Demos/EmailLink';
 
@@ -18,7 +17,6 @@ const NotFound = lazy(() => import('./pages/NotFound'));
 const Ventures = lazy(() => import('./pages/Ventures'));
 const Resume = lazy(() => import('./pages/Resume'));
 // const Stats = lazy(() => import('./pages/Stats'));
-const PowerBI = lazy(() => import('./pages/PowerBI'));
 const Demos = lazy(() => import('./pages/Demos'));
 
 // const Demos = lazy(() => import('./pages/Demos'));
@@ -33,7 +31,6 @@ const App = () => (
         {/* <Route path="/stats" component={Stats} /> */}
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-        <Route path="/powerbi" component={PowerBI} />
         <Route path="/demos" component={Demos} />
         <Route component={NotFound} status={404} />
       </Switch>
