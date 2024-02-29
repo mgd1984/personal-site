@@ -31,15 +31,6 @@ const Demos = () => (
           allowFullScreen
         />
       </div>
-      <div className="sandance-demo">
-        <iframe
-          id="embedIframe"
-          src="https://microsoft.github.io/SandDance/embed/v4/sanddance-embed.html"
-          width="100%"
-          height="560"
-          title="SandDance Demo"
-        />
-      </div>
     </article>
   </Main>
 );
