@@ -21,14 +21,13 @@ const Demos = () => (
       </div>
       {/* Replace ContactIcons with your desired component */}
       {/* <ContactIcons /> */}
-      <div className="youtube-video">
+      <div className="">
         <iframe
+          src="https://image-analyzer.streamlit.app/"
+          title="Streamlit App"
           width="100%"
-          height="560"
-          src="https://www.youtube.com/embed/smSUr6LG6lo"
-          title="YouTube video"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
+          height="600px"
+          frameBorder="0"
         />
       </div>
     </article>
