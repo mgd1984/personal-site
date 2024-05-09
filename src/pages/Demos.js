@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import Main from '../layouts/Main';
 
 const Demos = () => (
@@ -21,8 +20,14 @@ const Demos = () => (
       </div>
       {/* Replace ContactIcons with your desired component */}
       {/* <ContactIcons /> */}
-      <div className="">
-        <iframe title="streamlit" src="https://image-analyzer.streamlit.app/?embedded=true" />
+      <div>
+        <iframe
+          title="streamlit"
+          src="https://image-analyzer.streamlit.app/?embedded=true"
+          allow="clipboard-write; camera; microphone"
+          sandbox="allow-scripts allow-same-origin allow-popups"
+          style={{ width: '100%', height: '500px', border: '0' }}
+        />
       </div>
     </article>
   </Main>
