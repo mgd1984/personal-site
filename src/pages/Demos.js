@@ -22,7 +22,7 @@ const Demos = () => (
       {/* Replace ContactIcons with your desired component */}
       {/* <ContactIcons /> */}
       <div className="">
-        <iframe title="streamlit" width="100%" height="1000" src="https://image-analyzer.streamlit.app/?embedded=true" />
+        {/* <iframe title="streamlit" width="100%" height="1000" src="https://image-analyzer.streamlit.app/?embedded=true" /> */}
       </div>
     </article>
   </Main>
