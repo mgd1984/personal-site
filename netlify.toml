@@ -1,5 +1,9 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "ALLOW-FROM https://image-analyzer.streamlit.app/"
-    Content-Security-Policy = "frame-ancestors 'self' https://image-analyzer.streamlit.app/"
+    Content-Security-Policy = '''
+    default-src 'self';
+    script-src 'self';
+    img-src 'self' https://*.cdn.com;
+    frame-ancestors 'self' https://*.streamlit.app;
+    '''
